@@ -12,7 +12,8 @@ To support multiple documentation styles such as Google style and NumPy style.
 To improve code readability and maintainability.
 To save developers' time and effort.
 
-tools:
+Tools:
+
 Python – Used as the main programming language to run the program.
 Gradio – Used to create a simple user interface with input boxes and buttons.
 ReportLab – Used to convert text into PDF files.
